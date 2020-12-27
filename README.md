@@ -18,10 +18,10 @@ classiﬁcation approaches of Support Vector Machine, K-Nearest Neighbors, and L
 Analysis. The experimental results demonstrate the efﬁciency of the proposed RENA method and 100%
 accuracy in PPI networks alignment prediction.
 
-This project implemented by Elham Mahdipour, Ph.D. candidate of Artificial Intelligence at Yazd University, Yazd, Iran.
+This project implemented by Elham Mahdipour, Ph.D. graduate of Artificial Intelligence at Yazd University, Yazd, Iran. She is faculty member of Khavaran Institute of Higer Education, Mahshhad, Iran.
 
 The supervisor is Dr. Mohammad Ghasemzadeh, associate Prof. of Computer Engineering department at Yazd University.
 
-Please feel free and contact to me: elham.mahdipour@stu.yazd.ac.ir/ elham.mahdipour@gmail.com
+Please feel free and contact to me: e.mahdipour@prof.khi.ac.ir/ elham.mahdipour@gmail.com
 
 All right reserved by the authors.
